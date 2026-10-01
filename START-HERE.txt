@@ -1,9 +1,0 @@
-সহজ সমাধান — শুরু করার নিয়ম
-
-1) public/index.html = Customer website
-2) admin/index.html = Product management
-3) Admin demo PIN = 2468
-4) WhatsApp = 01710441658
-5) README.md পড়ুন।
-
-গুরুত্বপূর্ণ: এই package পরীক্ষামূলক/স্টার্টার। বাস্তবে চালু করার আগে secure server-side admin authentication, database এবং private storage লাগবে।
